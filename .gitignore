@@ -1,0 +1,16 @@
+a.out
+test
+.vscode/settings.json
+End_State.o
+Game_State.o
+level.o
+Game.o
+main.o
+Manager.o
+Object.o
+Menu_State.o
+object.o
+Pause_State.o
+State.o
+test2
+game
