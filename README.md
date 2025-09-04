@@ -1,6 +1,6 @@
 # 🐵 Donkey Kong Clone  
 
-A 2D **Donkey Kong–inspired platformer** built in **C++** with **SDL2**.  
+A 2D **Donkey Kong–inspired game** built in **C++** with **SDL2**.  
 Developed as part of a university project to explore **game loops, collision handling, and object-oriented design**.  
 
 ---
@@ -9,7 +9,8 @@ Developed as part of a university project to explore **game loops, collision han
 
 - 🎮 **Gameplay**  
   - Control the player (Mario) to climb ladders, jump, and dodge barrels.  
-  - Donkey Kong throws barrels at intervals.  
+  - Donkey Kong throws barrels at him.
+  - Mario has to save his wife before it’s too late.
   - Score system & life tracking.  
 
 - 🏗 **Technical Highlights**  
