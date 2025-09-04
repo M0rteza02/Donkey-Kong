@@ -21,7 +21,6 @@ Developed as part of a university project to explore **game loops, collision han
 ---
 
 ## 📂 Project Structure 
-└── Donkey Kong/
     ├── Makefile # Build instructions
     ├── README.md # Project description
     ├── src/ # (Game source code, classes & logic)
@@ -36,10 +35,13 @@ Developed as part of a university project to explore **game loops, collision han
    cd Donkey-Kong
 2. Install SDL2
     On Ubuntu/Debian:
+        ```bash
         sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev
 3. Build the game
+    ```bash
     make all
-4. Run the game
+4. Run the game 
+    ```bash
     make run
 
 ## 📸 Screenshots  
