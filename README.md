@@ -45,8 +45,8 @@ Developed as part of a university project to explore **game loops, collision han
 ## 📸 Screenshots  
 
 ### Gameplay
-<img src="./screenshots/DonkeyKong.png" alt="Level 1" width="500"/>  
-<img src="./screenshots/DonkeyKong1.png" alt="Level 2" width="500"/>
+<img src="./screenshots/DonkeyKong.png" alt="Level 1" width="200"/>  
+<img src="./screenshots/DonkeyKong1.png" alt="Level 2" width="200"/>
  
 
 
