@@ -16,7 +16,6 @@ Developed as part of a university project to explore **game loops, collision han
   - Implemented in **C++** with **SDL2** for rendering and input.  
   - Object-oriented design: `Player`, `Enemy`, `Platform`, `Barrel`, etc.  
   - Collision detection for platforms, ladders, and enemies.  
-  - Organized with a **Makefile** build system.  
 
 ---
 
@@ -33,10 +32,9 @@ Developed as part of a university project to explore **game loops, collision han
    ```bash
    git clone https://github.com/M0rteza02/Donkey-Kong.git
    cd Donkey-Kong
-2. Install SDL2
-    On Ubuntu/Debian:
-        ```bash
-        sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev
+2. Install SDL2 (Ubuntu/Debian)
+    ```bash
+    sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev
 3. Build the game
     ```bash
     make all
@@ -46,11 +44,10 @@ Developed as part of a university project to explore **game loops, collision han
 
 ## 📸 Screenshots  
 
-### Start Screen  
-![Level 1](./screenshots/DonkeyKong.png)  
-
-### Gameplay  
-![Level 2](./screenshots/DonkeyKong1.png)  
+### Gameplay
+<img src="./screenshots/DonkeyKong.png" alt="Level 1" width="500"/>  
+<img src="./screenshots/DonkeyKong1.png" alt="Level 2" width="500"/>
+ 
 
 
 ## 📜 License
